@@ -99,7 +99,9 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 Jhonatan da Silva
 
 GitHub: @jhonatan583
+
 LinkedIn: www.linkedin.com/in/jhonatan-da-silvaa
+
 Email:developerjs95@gmail.com
 
 📞 Contato
