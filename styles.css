@@ -342,3 +342,43 @@ gap: 10px;
   top: 10%;
   left: 70%;
 }
+
+@media screen and (max-width: 1040px){
+  
+   header nav ul{
+    gap: 25px;
+    
+   
+   }
+   header{
+    display: flex;
+    flex-direction: column;
+    
+   }
+
+   .content{
+     width: 100%;
+   
+     }
+     .list{
+        margin: 150px;
+        margin-left: 30px;
+        display: flex;
+        flex-direction: column;
+     }
+
+     .product-name{
+        font-size: 30px;
+     }
+
+     .indicators{
+        display: none;
+     }
+
+     /* .product-img{
+        display: none;
+
+     } */
+
+}
+   
